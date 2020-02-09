@@ -44,7 +44,9 @@ valid extensions in the empty search space).
 
 To ensure the responsiveness of this site, there is a timeout of 15s on
 all computation. This means that some more complex tasks (such as the
-race conditions example in Deliverable 4.1) are not possible.
+race conditions example in [Deliverable
+4.1](http://radon-h2020.eu/wp-content/uploads/2020/01/D4.1-Constraint-definition-language-I.pdf)
+are not possible.
 
 This simple web interface assumes that the specification is written in a
 single file. You can still import files from the CDL standard library
