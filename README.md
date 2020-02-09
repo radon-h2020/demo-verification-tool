@@ -27,10 +27,10 @@ form](https://imperial.eu.qualtrics.com/jfe/form/SV_1HthWM3xILQM6ih).
 The demo is a simple web interface, available
 [here](http://ec2-18-220-31-32.us-east-2.compute.amazonaws.com/).
 
-To get started, you can select one of the examples in the dropdown, or
-start from a blank specification. It is also possible to start from a
-blank specification and try your own example. For more information on
-what it is possible to write in the CDL, please see [this
+To get started, you can select one of the examples in the dropdown. It
+is also possible to start from a blank specification and try your own
+example. For more information on what it is possible to write in the
+CDL, please see [this
 document](http://radon-h2020.eu/wp-content/uploads/2020/01/D4.1-Constraint-definition-language-I.pdf).
 
 All examples return results in verification mode. The correction mode
