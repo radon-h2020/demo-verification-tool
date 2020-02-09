@@ -19,7 +19,7 @@ maintaining consistency with the valid examples.
 
 The current version of the VT supports the first two modes of execution.
 
-To request a license to use the demo, please go to [fill out this
+To request a license to use the demo, please [fill out this
 form](https://imperial.eu.qualtrics.com/jfe/form/SV_1HthWM3xILQM6ih).
 
 ## Instructions
